@@ -1,8 +1,10 @@
-# StackIt v1 - Minecraft 1.7-1.11
+# StackIt v1 - Minecraft 1.7-1.11 (ALPHA)
 ## A Powerful Shop for Minecraft.
 
 This is the main repository for the stackit-server plugin for Bukkit/Spigot 1.7-1.11.
 (BungeeCord are not yet supported, but are coming soon)
+
+THIS PLUGIN IS IN EARLY DEVELOPMENT. USE AT YOUR OWN RISK. I WILL NOT BE HOLD RESPONSABLE FOR ANY DAMAGE DONE TO YOUR SERVER OR YOUR INFRASTRUCTURES. (SSL not included in the present build).
 
 ### What does this plugin do?
 This plugin open a webserver and create a API for the StackIt CMS (Upcoming 2017).
